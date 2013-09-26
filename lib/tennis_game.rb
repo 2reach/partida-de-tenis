@@ -1,4 +1,6 @@
-class Match
+require 'player'
+
+class TennisGame
 	attr_accessor :player1, :player2
 
 	def initialize

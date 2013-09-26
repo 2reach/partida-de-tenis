@@ -1,4 +1,4 @@
-class Player
+class TennisGame::Player
 
 	attr_accessor :points, :advantage, :games
 
