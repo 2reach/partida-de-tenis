@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = "A simple tennis game implementation"
   s.authors     = ["2reach"]
   s.email       = 'contato@2reach.com.br'
-  s.files       = ["lib/tennis_game.rb"]
+  s.files       = ["lib/tennis_game.rb", "lib/tennis_game/player.rb"]
   s.homepage    =
     'http://rubygems.org/gems/tennis_game'
   s.license       = 'MIT'

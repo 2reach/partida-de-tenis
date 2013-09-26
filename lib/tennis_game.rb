@@ -1,4 +1,4 @@
-require 'player'
+require_relative 'tennis_game/player.rb'
 
 class TennisGame
 	attr_accessor :player1, :player2
