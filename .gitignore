@@ -4,6 +4,8 @@
 .sublime-project
 .bundle
 .config
+.floo
+.flooignore
 coverage
 InstalledFiles
 lib/bundler/man
